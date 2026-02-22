@@ -25,6 +25,21 @@ Decide qué tipos de gráficos utilizar para presentar los resultados de forma c
 
 Mínimo de 3 gráficos diferentes, que pueden incluir gráficos de barras, circulares, de dispersión y otros.
 
+##Estructura del proyecto
+Esta organizado en tres modulos:
+
+1.-Extraccion y depuracion de datos.
+2.-Analisis de datos y Graficos.
+3.-Conclusiones.
+
+##Instrucciones de uso
+Para utlizar se debe seguir la secuencia logica y ordenada del libro.
+Ejecute las sentencias en su totalidad.
+En el lateral o barra indice puede navegar a la seccion que desee ver en profundidad.
+
+
+
+
 
 
 Enviar una recomendación:
